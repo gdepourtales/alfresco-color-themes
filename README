@@ -1,1 +1,4 @@
-This file was created by IntelliJ IDEA 12.0.4 for binding GitHub repository
+To install the themes, please follow the two steps below for each theme.
+
+1. Copy the xxxTheme.xml file in the tomcat/webapps/share/WEB-INF/classes/alfresco/site-data/themes folder
+2. Copy the xxxTheme folder in the tomcat/webapps/share/themes folder
